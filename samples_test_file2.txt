@@ -1,2 +1,3 @@
 This is sample2
 This is comparison lecture
+This is stash lecture, change in file 2
