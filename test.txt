@@ -6,3 +6,4 @@ And new line added.
 
 Testing comparison
 This is stash lecture, change in test
+This is stash lecture test
